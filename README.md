@@ -21,47 +21,52 @@ Acredito que dados bem estruturados são a base para decisões estratégicas. Po
 
 ---
 
-## 🤖 Tecnologias e ferramentas
+## 🧠 Stack aplicada a negócios
 
 <p align="left">
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="50"/>
+  &nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="50"/>
+  &nbsp;&nbsp;
+  <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-sql-coding-and-development-flat-flat-juicy-fish.png" width="50"/>
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
-  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
 </p>
 
-📊 Excel (avançado) | Power BI | SQL | Python | QuickBooks | Automação
+📊 **Excel & Power BI →** análise financeira e dashboards gerenciais  
+💾 **SQL →** modelagem e extração de dados  
+🤖 **Python →** automação de processos financeiros  
+⚙️ **Power Query & QuickBooks →** organização e tratamento de dados  
 
 ---
 
 ## 📌 Projetos em destaque
 
 🔹 **[Financial Performance Analysis – E-commerce](https://github.com/Vborges95/financial-performance-analysis-ecommerce)**  
-Análise financeira com DRE, margens, fluxo de caixa e recomendações para melhoria de rentabilidade.
+Análise financeira com DRE, margens, fluxo de caixa e recomendações para melhoria de rentabilidade  
 
 🔹 **[Business Intelligence com Power BI](https://github.com/Vborges95/PowerBi)**  
-Dashboards gerenciais, modelagem dimensional, ETL no Power Query e storytelling com dados.
+Dashboards gerenciais, modelagem dimensional, ETL no Power Query e storytelling com dados  
 
 🔹 **[Modelagem de Banco de Dados para E-commerce](https://github.com/Vborges95/DIO_SQLtest3)**  
-Estrutura relacional em MySQL com modelagem EER, constraints e queries analíticas.
+Estrutura relacional em MySQL com modelagem EER, constraints e queries analíticas  
 
 🔹 **[Dashboard Financeiro com Excel + IA](https://github.com/Vborges95/VBorges_DashboardDIO)**  
-Projeto em Excel com KPIs, visualização interativa, automação analítica e recursos modernos.
+Projeto em Excel com KPIs, visualização interativa e automação analítica  
 
 🔹 **[Simulador de Investimentos em FIIs](https://github.com/Vborges95/VBorges_SimulacoesDIO)**  
-Simulação de aportes, dividendos e evolução patrimonial com apoio de dashboard.
+Simulação de aportes, dividendos e evolução patrimonial com apoio de dashboard  
 
 ---
 
 ## 📊 O que eu entrego com dados
 
-- 📈 Transformo dados financeiros em insights para tomada de decisão
-- ⚙️ Automatizo rotinas para reduzir esforço manual e aumentar eficiência
-- 💰 Estruturo análises de DRE, margem e fluxo de caixa
-- 📊 Crio dashboards para acompanhamento de performance
+- 📈 Transformo dados financeiros em insights para tomada de decisão  
+- ⚙️ Automatizo rotinas para reduzir esforço manual e aumentar eficiência  
+- 💰 Estruturo análises de DRE, margem e fluxo de caixa  
+- 📊 Crio dashboards para acompanhamento de performance  
 
 ---
 

@@ -15,20 +15,8 @@ Acredito que dados bem estruturados são a base para decisões estratégicas. Po
 ---
 
 <p align="left"> 
-    <a href="https://github.com/Vborges95?tab=followers">
-         <img 
-         alt="followers" 
-         title="Me siga no GitHub" 
-         src="https://img.shields.io/github/followers/Vborges95?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
-    </a>
-    <a href="https://github.com/Vborges95?tab=repositories&sort=stargazers">
-         <img 
-         alt="total stars" 
-         title="Total de estrelas" 
-         src="https://img.shields.io/github/stars/Vborges95?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"/>
-    </a>
     <a href="https://www.linkedin.com/in/viniciusagborges/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
 </p>
 

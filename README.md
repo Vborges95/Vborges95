@@ -1,16 +1,15 @@
-#  Olá, eu sou Vinicius Borges
-
-**`FP&A | Data Analytics | Financial Automation`**
+# Olá, eu sou Vinicius Borges
+### FP&A | Data Analytics | Financial Automation
 
 Sou formado em Economia e atuo na área financeira com foco em **planejamento, análise de dados e automação de processos**.
 
 Tenho experiência em ambientes internacionais, trabalhando com **controle financeiro, auditoria, consistência de dados e suporte à tomada de decisão**.
 
-Acredito que dados bem estruturados são a base para decisões estratégicas. Por isso, foco em conectar **finanças + análise + tecnologia** para gerar eficiência e previsibilidade.
+Acredito que dados bem estruturados são a base para decisões estratégicas. Por isso, busco conectar **finanças, análise e tecnologia** para gerar eficiência, previsibilidade e melhores decisões de negócio.
 
 📊 Atualmente explorando: Automação com Python, Análise de Dados e Modelagem Financeira  
-🛠️ Background técnico: FP&A, Controladoria, Data Analytics  
-💡 Buscando aplicar dados financeiros para resolver problemas reais de negócio  
+🛠️ Background técnico: FP&A, Controladoria e Data Analytics  
+💡 Interesse principal: aplicar dados financeiros para resolver problemas reais de negócio  
 
 ---
 
@@ -63,7 +62,6 @@ Simulação de aportes, dividendos e evolução patrimonial com apoio de dashboa
 - ⚙️ Automatizo rotinas para reduzir esforço manual e aumentar eficiência
 - 💰 Estruturo análises de DRE, margem e fluxo de caixa
 - 📊 Crio dashboards para acompanhamento de performance
-</p>
 
 ---
 

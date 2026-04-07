@@ -57,18 +57,12 @@ Simulação de aportes, dividendos e evolução patrimonial com apoio de dashboa
 
 ---
 
-## 📊 Estatísticas
+## 📊 O que eu entrego com dados
 
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Vborges95&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-    width="420"
-  />
-  &nbsp;&nbsp;
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vborges95&layout=compact&theme=tokyonight&locale=pt-br"
-    width="390"
-  />
+- 📈 Transformo dados financeiros em insights para tomada de decisão
+- ⚙️ Automatizo rotinas para reduzir esforço manual e aumentar eficiência
+- 💰 Estruturo análises de DRE, margem e fluxo de caixa
+- 📊 Crio dashboards para acompanhamento de performance
 </p>
 
 ---

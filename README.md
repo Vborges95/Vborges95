@@ -62,11 +62,9 @@ Estruturação de dados relacional para suportar análises e construção de das
 
 ---
 
-## ⚙️ Ferramentas (como meio, não como fim)
+## ⚙️ Ferramentas
 
-Excel • Power BI • SQL • Python • Power Query • QuickBooks  
-
-Utilizadas como meio para transformar dados em análises, automação e suporte à decisão.
+Excel • Power BI • SQL • Python • Power Query • QuickBooks
 
 ---
 

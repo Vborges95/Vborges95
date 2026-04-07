@@ -41,22 +41,22 @@ O objetivo não é só analisar —
 
 ## 📊 Projetos (prova de raciocínio e decisão)
 
-Mais do que código, cada projeto aqui mostra **como eu penso e resolvo problemas de negócio**.
+Mais do que código, cada projeto aqui mostra **como eu estruturo problemas, analiso dados e apoio decisões de negócio**.
 
 🔹 **[Financial Performance Analysis – E-commerce](https://github.com/Vborges95/financial-performance-analysis-ecommerce)**  
-Análise financeira completa com DRE, margens, fluxo de caixa e identificação de drivers de resultado, com foco em rentabilidade e tomada de decisão  
+Análise completa de rentabilidade com DRE, margens e fluxo de caixa, identificando drivers de resultado e oportunidades de melhoria  
 
 🔹 **[Business Intelligence com Power BI](https://github.com/Vborges95/PowerBi)**  
-Dashboards gerenciais com modelagem dimensional, ETL em Power Query e visualização de indicadores para acompanhamento de performance  
+Construção de dashboards e modelo dimensional para análise de performance e suporte à tomada de decisão  
 
-🔹 **[Modelagem de Banco de Dados para E-commerce](https://github.com/Vborges95/DIO_SQLtest3)**  
-Estrutura relacional em MySQL com modelagem EER, constraints e queries analíticas voltadas para organização e exploração de dados  
+🔹 **[Análise de Receita – Modelo de Assinaturas](https://github.com/Vborges95/VBorges_DashboardDIO)**  
+Estrutura analítica para acompanhar receita recorrente, comportamento de clientes e apoiar decisões de pricing e retenção  
 
-🔹 **[Dashboard Financeiro com Excel + IA](https://github.com/Vborges95/VBorges_DashboardDIO)**  
-Projeto com KPIs, visualização interativa e estrutura analítica voltada para leitura de resultados e apoio gerencial  
+🔹 **[Simulação de Investimentos em FIIs](https://github.com/Vborges95/VBorges_SimulacoesDIO)**  
+Simulação de cenários de investimento com foco em alocação de capital, geração de renda e crescimento patrimonial  
 
-🔹 **[Simulador de Investimentos em FIIs](https://github.com/Vborges95/VBorges_SimulacoesDIO)**  
-Simulação de aportes, dividendos e evolução patrimonial com apoio de dashboard para visualização e análise financeira  
+🔹 **[Modelagem de Banco de Dados – E-commerce](https://github.com/Vborges95/DIO_SQLtest3)**  
+Estruturação de dados relacional para suportar análises e construção de dashboards  
 
 ---
 

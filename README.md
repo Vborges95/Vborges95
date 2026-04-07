@@ -1,7 +1,7 @@
 # Vinicius Borges  
 ### FP&A | Data Analytics | Financial Automation  
 
-Transformo dados financeiros em decisões mais eficientes, previsíveis e orientadas a resultado.
+Transformo dados financeiros em análises claras, processos eficientes e decisões mais bem fundamentadas.
 
 ---
 
@@ -20,6 +20,8 @@ Ajudo a resolver desafios como:
 - Dados inconsistentes que comprometem decisões  
 - Falta de integração entre financeiro e operação  
 
+O foco não é só organizar dados — é transformar informação em direcionamento.
+
 ---
 
 ## 🧠 Como eu trabalho
@@ -35,13 +37,13 @@ Na prática, isso envolve:
 - Tratamento e validação de dados (Power Query / SQL)  
 
 O objetivo não é só analisar —  
-é gerar clareza e apoiar decisões melhores.
+é gerar clareza, direcionar ações e apoiar decisões com impacto real no negócio.
 
 ---
 
-## 📊 Projetos (prova de raciocínio e decisão)
+## 📊 Projetos (análise aplicada e suporte à decisão)
 
-Mais do que código, cada projeto aqui mostra **como eu estruturo problemas, analiso dados e apoio decisões de negócio**.
+Mais do que código, cada projeto demonstra como estruturo problemas, analiso dados e traduzo informações em decisões de negócio.
 
 🔹 **[Financial Performance Analysis – E-commerce](https://github.com/Vborges95/financial-performance-analysis-ecommerce)**  
 Análise completa de rentabilidade com DRE, margens e fluxo de caixa, identificando drivers de resultado e oportunidades de melhoria  
@@ -64,7 +66,7 @@ Estruturação de dados relacional para suportar análises e construção de das
 
 Excel • Power BI • SQL • Python • Power Query • QuickBooks  
 
-Utilizadas para transformar dados em análises, automação e suporte à decisão.
+Utilizadas como meio para transformar dados em análises, automação e suporte à decisão.
 
 ---
 
@@ -85,4 +87,4 @@ Utilizadas para transformar dados em análises, automação e suporte à decisã
 
 ---
 
-💬 Aberto a conexões e discussões sobre FP&A, dados e automação aplicada a negócios
+💬 Interessado em discutir finanças, dados ou como transformar análise em decisão? Vamos trocar ideias.

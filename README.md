@@ -39,26 +39,24 @@ O objetivo não é só analisar —
 
 ---
 
-## 📊 Projetos como prova de raciocínio
+## 📊 Projetos (prova de raciocínio e decisão)
 
 Mais do que código, cada projeto aqui mostra **como eu penso e resolvo problemas de negócio**.
 
-## 📌 Projetos em destaque
-
 🔹 **[Financial Performance Analysis – E-commerce](https://github.com/Vborges95/financial-performance-analysis-ecommerce)**  
-Análise financeira completa com DRE, margens, fluxo de caixa e identificação de drivers de resultado, com foco em rentabilidade e tomada de decisão
+Análise financeira completa com DRE, margens, fluxo de caixa e identificação de drivers de resultado, com foco em rentabilidade e tomada de decisão  
 
 🔹 **[Business Intelligence com Power BI](https://github.com/Vborges95/PowerBi)**  
-Dashboards gerenciais com modelagem dimensional, ETL em Power Query e visualização de indicadores para acompanhamento de performance
+Dashboards gerenciais com modelagem dimensional, ETL em Power Query e visualização de indicadores para acompanhamento de performance  
 
 🔹 **[Modelagem de Banco de Dados para E-commerce](https://github.com/Vborges95/DIO_SQLtest3)**  
-Estrutura relacional em MySQL com modelagem EER, constraints e queries analíticas voltadas para organização e exploração de dados
+Estrutura relacional em MySQL com modelagem EER, constraints e queries analíticas voltadas para organização e exploração de dados  
 
 🔹 **[Dashboard Financeiro com Excel + IA](https://github.com/Vborges95/VBorges_DashboardDIO)**  
-Projeto com KPIs, visualização interativa e estrutura analítica voltada para leitura de resultados e apoio gerencial
+Projeto com KPIs, visualização interativa e estrutura analítica voltada para leitura de resultados e apoio gerencial  
 
 🔹 **[Simulador de Investimentos em FIIs](https://github.com/Vborges95/VBorges_SimulacoesDIO)**  
-Simulação de aportes, dividendos e evolução patrimonial com apoio de dashboard para visualização e análise financeira
+Simulação de aportes, dividendos e evolução patrimonial com apoio de dashboard para visualização e análise financeira  
 
 ---
 
@@ -76,6 +74,14 @@ Utilizadas para transformar dados em análises, automação e suporte à decisã
 - Redução de retrabalho e ganho de eficiência  
 - Estruturação de análises financeiras consistentes  
 - Apoio direto à tomada de decisão  
+
+---
+
+<p align="left"> 
+    <a href="https://www.linkedin.com/in/viniciusagborges/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+</p>
 
 ---
 

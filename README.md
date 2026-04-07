@@ -40,14 +40,20 @@ Acredito que dados bem estruturados são a base para decisões estratégicas. Po
 
 ## 📌 Projetos em destaque
 
-🔹 **Financial Automation (QuickBooks + Python)**  
-Automação de rotinas financeiras, reduzindo esforço manual e aumentando eficiência operacional  
+🔹 **[Financial Performance Analysis – E-commerce](https://github.com/Vborges95/financial-performance-analysis-ecommerce)**  
+Análise financeira com DRE, margens, fluxo de caixa e recomendações para melhoria de rentabilidade.
 
-🔹 **Análise de Dados - E-commerce**  
-Construção de DRE, análise de margens e identificação de oportunidades de melhoria  
+🔹 **[Business Intelligence com Power BI](https://github.com/Vborges95/PowerBi)**  
+Dashboards gerenciais, modelagem dimensional, ETL no Power Query e storytelling com dados.
 
-🔹 **Dashboard Financeiro (Power BI)**  
-Visualização de indicadores para suporte à tomada de decisão  
+🔹 **[Modelagem de Banco de Dados para E-commerce](https://github.com/Vborges95/DIO_SQLtest3)**  
+Estrutura relacional em MySQL com modelagem EER, constraints e queries analíticas.
+
+🔹 **[Dashboard Financeiro com Excel + IA](https://github.com/Vborges95/VBorges_DashboardDIO)**  
+Projeto em Excel com KPIs, visualização interativa, automação analítica e recursos modernos.
+
+🔹 **[Simulador de Investimentos em FIIs](https://github.com/Vborges95/VBorges_SimulacoesDIO)**  
+Simulação de aportes, dividendos e evolução patrimonial com apoio de dashboard.
 
 ---
 

@@ -1,15 +1,17 @@
 # Olá, eu sou Vinicius Borges
 ### FP&A | Data Analytics | Financial Automation
 
-Sou formado em Economia e atuo na área financeira com foco em **planejamento, análise de dados e automação de processos**.
+Ajudo a transformar dados financeiros em análises mais confiáveis, processos mais eficientes e decisões de negócio mais bem estruturadas.
 
-Tenho experiência em ambientes internacionais, trabalhando com **controle financeiro, auditoria, consistência de dados e suporte à tomada de decisão**.
+Sou formado em Economia e atuo na interseção entre **finanças, análise de dados e tecnologia**, com experiência em **planejamento financeiro, controladoria, análise de performance, reporting gerencial e automação de processos**.
 
-Acredito que dados bem estruturados são a base para decisões estratégicas. Por isso, busco conectar **finanças, análise e tecnologia** para gerar eficiência, previsibilidade e melhores decisões de negócio.
+Tenho vivência em ambientes internacionais, apoiando áreas de negócio com **dashboards, análises comparativas, validação de bases, auditoria financeira e acompanhamento de indicadores**, sempre com foco em **consistência da informação, produtividade e suporte à tomada de decisão**.
+
+Acredito que dados bem estruturados só geram valor quando são traduzidos em contexto, clareza e ação. Por isso, busco conectar **FP&A, BI e automação** para resolver problemas reais de negócio.
 
 📊 Atualmente explorando: Automação com Python, Análise de Dados e Modelagem Financeira  
-🛠️ Background técnico: FP&A, Controladoria e Data Analytics  
-💡 Interesse principal: aplicar dados financeiros para resolver problemas reais de negócio  
+🛠️ Atuação principal: FP&A, Controladoria, Business Intelligence e Financial Automation  
+💡 Foco: transformar dados em visibilidade financeira, eficiência operacional e suporte à decisão  
 
 ---
 
@@ -21,7 +23,7 @@ Acredito que dados bem estruturados são a base para decisões estratégicas. Po
 
 ---
 
-## 🧠 Stack aplicada a negócios
+## 🧠 Como aplico tecnologia em finanças
 
 <p align="left">
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="50"/>
@@ -35,39 +37,40 @@ Acredito que dados bem estruturados são a base para decisões estratégicas. Po
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
 </p>
 
-📊 **Excel & Power BI →** análise financeira e dashboards gerenciais  
-💾 **SQL →** modelagem e extração de dados  
-🤖 **Python →** automação de processos financeiros  
-⚙️ **Power Query & QuickBooks →** organização e tratamento de dados  
+📊 **Excel & Power BI →** dashboards gerenciais, análise de performance e acompanhamento de indicadores  
+💾 **SQL →** estruturação, modelagem e extração de dados para análises mais robustas  
+🤖 **Python →** automação de rotinas financeiras e ganho de eficiência operacional  
+⚙️ **Power Query & QuickBooks →** tratamento, validação e confiabilidade das informações financeiras  
 
 ---
 
 ## 📌 Projetos em destaque
 
 🔹 **[Financial Performance Analysis – E-commerce](https://github.com/Vborges95/financial-performance-analysis-ecommerce)**  
-Análise financeira com DRE, margens, fluxo de caixa e recomendações para melhoria de rentabilidade  
+Análise financeira completa com DRE, margens, fluxo de caixa e identificação de drivers de resultado, com foco em rentabilidade e tomada de decisão
 
 🔹 **[Business Intelligence com Power BI](https://github.com/Vborges95/PowerBi)**  
-Dashboards gerenciais, modelagem dimensional, ETL no Power Query e storytelling com dados  
+Dashboards gerenciais com modelagem dimensional, ETL em Power Query e visualização de indicadores para acompanhamento de performance
 
 🔹 **[Modelagem de Banco de Dados para E-commerce](https://github.com/Vborges95/DIO_SQLtest3)**  
-Estrutura relacional em MySQL com modelagem EER, constraints e queries analíticas  
+Estrutura relacional em MySQL com modelagem EER, constraints e queries analíticas voltadas para organização e exploração de dados
 
 🔹 **[Dashboard Financeiro com Excel + IA](https://github.com/Vborges95/VBorges_DashboardDIO)**  
-Projeto em Excel com KPIs, visualização interativa e automação analítica  
+Projeto com KPIs, visualização interativa e estrutura analítica voltada para leitura de resultados e apoio gerencial
 
 🔹 **[Simulador de Investimentos em FIIs](https://github.com/Vborges95/VBorges_SimulacoesDIO)**  
-Simulação de aportes, dividendos e evolução patrimonial com apoio de dashboard  
+Simulação de aportes, dividendos e evolução patrimonial com apoio de dashboard para visualização e análise financeira
 
 ---
 
 ## 📊 O que eu entrego com dados
 
-- 📈 Transformo dados financeiros em insights para tomada de decisão  
-- ⚙️ Automatizo rotinas para reduzir esforço manual e aumentar eficiência  
-- 💰 Estruturo análises de DRE, margem e fluxo de caixa  
-- 📊 Crio dashboards para acompanhamento de performance  
+- Transformo dados financeiros e operacionais em insights para tomada de decisão
+- Estruturo análises de desempenho, DRE, margem e fluxo de caixa
+- Automatizo rotinas para reduzir esforço manual e aumentar eficiência
+- Desenvolvo dashboards e relatórios para acompanhamento de performance
+- Busco aumentar a confiabilidade das informações e a visibilidade dos números
 
 ---
 
-💬 Sempre aberto para trocar ideias sobre finanças, dados e tecnologia!
+💬 Aberto a conexões e trocas sobre FP&A, dados, automação e soluções que aproximem análise e decisão.

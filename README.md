@@ -43,30 +43,22 @@ O objetivo não é só analisar —
 
 Mais do que código, cada projeto aqui mostra **como eu penso e resolvo problemas de negócio**.
 
-### 🔹 Financial Performance Analysis – E-commerce  
-Análise completa de rentabilidade com DRE, margens e fluxo de caixa  
+## 📌 Projetos em destaque
 
-➡️ Identificação de drivers de resultado  
-➡️ Diagnóstico de eficiência operacional e comercial  
-➡️ Recomendações para melhoria de margem  
+🔹 **[Financial Performance Analysis – E-commerce](https://github.com/Vborges95/financial-performance-analysis-ecommerce)**  
+Análise financeira completa com DRE, margens, fluxo de caixa e identificação de drivers de resultado, com foco em rentabilidade e tomada de decisão
 
----
+🔹 **[Business Intelligence com Power BI](https://github.com/Vborges95/PowerBi)**  
+Dashboards gerenciais com modelagem dimensional, ETL em Power Query e visualização de indicadores para acompanhamento de performance
 
-### 🔹 Business Intelligence com Power BI  
-Dashboards gerenciais com modelagem dimensional e acompanhamento de indicadores  
+🔹 **[Modelagem de Banco de Dados para E-commerce](https://github.com/Vborges95/DIO_SQLtest3)**  
+Estrutura relacional em MySQL com modelagem EER, constraints e queries analíticas voltadas para organização e exploração de dados
 
-➡️ Estruturação de dados para análise  
-➡️ Visualização de performance  
-➡️ Suporte à tomada de decisão  
+🔹 **[Dashboard Financeiro com Excel + IA](https://github.com/Vborges95/VBorges_DashboardDIO)**  
+Projeto com KPIs, visualização interativa e estrutura analítica voltada para leitura de resultados e apoio gerencial
 
----
-
-### 🔹 Modelagem de Banco de Dados para E-commerce  
-Estrutura relacional com foco em organização e análise de dados  
-
-➡️ Modelagem EER  
-➡️ Queries analíticas  
-➡️ Base para decisões orientadas a dados  
+🔹 **[Simulador de Investimentos em FIIs](https://github.com/Vborges95/VBorges_SimulacoesDIO)**  
+Simulação de aportes, dividendos e evolução patrimonial com apoio de dashboard para visualização e análise financeira
 
 ---
 

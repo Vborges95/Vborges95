@@ -1,64 +1,68 @@
-# Vinicius Borges  
-### FP&A | Data Analytics | Financial Automation  
+# Vinicius Borges
 
-Transformo dados financeiros em análises claras, processos eficientes e decisões mais bem fundamentadas.
+### FP&A | Data Analytics | Financial Automation
+
+Transformo dados financeiros em análises claras, processos mais eficientes e decisões mais bem fundamentadas.
 
 ---
 
 ## 📌 Onde eu gero valor
 
-Grande parte dos problemas financeiros nas empresas não está na falta de dados —  
+Grande parte dos problemas financeiros nas empresas não está na falta de dados —
 mas na falta de estrutura, clareza e aplicação.
 
-É aqui que eu atuo.
+É nesse ponto que eu atuo.
 
-Ajudo a resolver desafios como:
+Minha atuação é voltada para transformar dados e rotinas financeiras em informação confiável, análise útil e suporte real à tomada de decisão.
 
-- Falta de visibilidade sobre performance financeira  
-- Dificuldade em entender margens e rentabilidade  
-- Processos manuais que geram retrabalho e risco  
-- Dados inconsistentes que comprometem decisões  
-- Falta de integração entre financeiro e operação  
+Isso inclui desafios como:
 
-O foco não é só organizar dados — é transformar informação em direcionamento.
+* Baixa visibilidade sobre performance financeira
+* Dificuldade em entender margens, rentabilidade e geração de caixa
+* Processos manuais que geram retrabalho, lentidão e risco
+* Dados inconsistentes que comprometem análises e decisões
+* Falta de integração entre financeiro, operação e gestão
+
+O foco não é apenas organizar informações —
+é transformar dados em direcionamento e apoiar decisões com mais clareza.
 
 ---
 
 ## 🧠 Como eu trabalho
 
-Minha atuação conecta **finanças + dados + tecnologia** para transformar informação em decisão.
+Minha atuação conecta **finanças, dados e tecnologia** para transformar informação em análise aplicada e suporte à decisão.
 
 Na prática, isso envolve:
 
-- Estruturação de DRE, margem e fluxo de caixa  
-- Análises de performance (real vs planejado)  
-- Criação de dashboards gerenciais (Power BI / Excel)  
-- Automação de rotinas financeiras com Python  
-- Tratamento e validação de dados (Power Query / SQL)  
+* Estruturação de DRE, margem, rentabilidade e fluxo de caixa
+* Análises de performance e variação (real vs. planejado)
+* Construção de dashboards gerenciais para acompanhamento de indicadores
+* Automação de rotinas financeiras e operacionais com Python
+* Tratamento, validação e organização de dados com Power Query e SQL
 
-O objetivo não é só analisar —  
-é gerar clareza, direcionar ações e apoiar decisões com impacto real no negócio.
+O objetivo não é apenas analisar números —
+é gerar clareza, direcionar ações e contribuir para decisões com impacto real no negócio.
 
 ---
 
-## 📊 Projetos (análise aplicada e suporte à decisão)
+## 📊 Projetos | análise aplicada e suporte à decisão
 
-Mais do que código, cada projeto demonstra como estruturo problemas, analiso dados e traduzo informações em decisões de negócio.
+Mais do que código, cada projeto foi estruturado para demonstrar como organizo problemas, analiso dados e traduzo informações em decisões de negócio.
 
-🔹 **[Financial Performance Analysis – E-commerce](https://github.com/Vborges95/financial-performance-analysis-ecommerce)**  
-Análise completa de rentabilidade com DRE, margens e fluxo de caixa, identificando drivers de resultado e oportunidades de melhoria  
+🔹 **[Financial Performance Analysis – E-commerce](https://github.com/Vborges95/financial-performance-analysis-ecommerce)**
+Análise de rentabilidade com DRE, margens e fluxo de caixa para identificar os principais drivers de resultado e apoiar decisões sobre eficiência operacional e priorização financeira.
 
-🔹 **[Business Intelligence com Power BI](https://github.com/Vborges95/PowerBi)**  
-Construção de dashboards e modelo dimensional para análise de performance e suporte à tomada de decisão  
+🔹 **[Business Intelligence com Power BI](https://github.com/Vborges95/PowerBi)**
+Construção de dashboards gerenciais e modelo dimensional para ampliar a visibilidade da performance e apoiar o acompanhamento de indicadores relevantes para a tomada de decisão.
 
-🔹 **[Análise de Receita – Modelo de Assinaturas](https://github.com/Vborges95/VBorges_DashboardDIO)**  
-Estrutura analítica para acompanhar receita recorrente, comportamento de clientes e apoiar decisões de pricing e retenção  
+🔹 **[Análise de Receita – Modelo de Assinaturas](https://github.com/Vborges95/VBorges_DashboardDIO)**
+Estrutura analítica para acompanhar receita recorrente, comportamento de clientes e indicadores relevantes para decisões de pricing, retenção e crescimento.
 
-🔹 **[Simulação de Investimentos em FIIs](https://github.com/Vborges95/VBorges_SimulacoesDIO)**  
-Simulação de cenários de investimento com foco em alocação de capital, geração de renda e crescimento patrimonial  
+🔹 **[Simulação de Investimentos em FIIs](https://github.com/Vborges95/VBorges_SimulacoesDIO)**
+Simulação de cenários de investimento com foco em alocação de capital, geração de renda e análise comparativa para apoiar decisões financeiras.
 
-🔹 **[Modelagem de Banco de Dados – E-commerce](https://github.com/Vborges95/DIO_SQLtest3)**  
-Estruturação de dados relacional para suportar análises e construção de dashboards  
+🔹 **[Modelagem de Banco de Dados – E-commerce](https://github.com/Vborges95/DIO_SQLtest3)**
+Estruturação de base relacional para garantir consistência dos dados e suportar análises, relatórios e construção de dashboards com maior confiabilidade.
 
 ---
 
@@ -68,12 +72,12 @@ Excel • Power BI • SQL • Python • Power Query • QuickBooks
 
 ---
 
-## 📈 O que você pode esperar do meu trabalho
+## 📈 Resultados que minha atuação busca gerar
 
-- Clareza sobre números e performance  
-- Redução de retrabalho e ganho de eficiência  
-- Estruturação de análises financeiras consistentes  
-- Apoio direto à tomada de decisão  
+* Mais clareza sobre performance, margens e geração de caixa
+* Processos financeiros mais eficientes e confiáveis
+* Redução de retrabalho operacional e riscos em análises
+* Melhor suporte para decisões financeiras e operacionais
 
 ---
 
@@ -85,4 +89,4 @@ Excel • Power BI • SQL • Python • Power Query • QuickBooks
 
 ---
 
-💬 Interessado em discutir finanças, dados ou como transformar análise em decisão? Vamos trocar ideias.
+💬 Interessado em discutir como finanças, dados e automação podem gerar decisões mais claras e operações mais eficientes? Vamos conversar.

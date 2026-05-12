@@ -49,6 +49,9 @@ O objetivo não é apenas analisar números —
 
 Mais do que código, cada projeto foi estruturado para demonstrar como organizo problemas, analiso dados e traduzo informações em decisões de negócio.
 
+🔹 **[Análise Financeira do Vasco SAF (2023–2027)](https://github.com/Vborges95/Analise_Vasco)**
+Análise independente dos balanços auditados do Vasco SAF com reconstrução de EBITDA recorrente, modelagem de runway e cenários de sustentabilidade financeira. O projeto aplica técnicas de FP&A, análise de caixa e modelagem operacional para avaliar viabilidade financeira, impacto regulatório (SSF/CBF) e caminhos de turnaround no contexto do futebol brasileiro.
+
 🔹 **[Financial Performance Analysis – E-commerce](https://github.com/Vborges95/financial-performance-analysis-ecommerce)**
 Análise de rentabilidade com DRE, margens e fluxo de caixa para identificar os principais drivers de resultado e apoiar decisões sobre eficiência operacional e priorização financeira.
 

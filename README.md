@@ -82,6 +82,7 @@ Estrutura analítica para acompanhar receita recorrente, comportamento de client
 
 🔹 **[Modelagem de Banco de Dados – E-commerce](https://github.com/Vborges95/data-modeling-ecommerce-sql)**
 Estruturação de base relacional para garantir consistência dos dados e suportar análises, relatórios e construção de dashboards com maior confiabilidade.
+
 ---
 
 ## ⚙️ Ferramentas

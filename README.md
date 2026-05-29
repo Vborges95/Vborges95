@@ -49,6 +49,25 @@ O objetivo não é apenas analisar números —
 
 Mais do que código, cada projeto foi estruturado para demonstrar como organizo problemas, analiso dados e traduzo informações em decisões de negócio.
 
+### 🎯 Projeto em destaque
+
+🔹 **[Finance Ops & Analytics – Beauty Omnichannel](https://github.com/Vborges95/finance-ops-analytics)**
+
+Case completo de FP&A e Controladoria simulando a transformação de uma operação financeira em uma empresa beauty omnichannel — do dado bruto à IA aplicada.
+
+O projeto foi estruturado em **6 camadas conectadas**:
+
+* **Base sintética** com 24 meses de dados realistas (Python + Faker)
+* **Pipeline de tratamento** com limpeza, padronização e reconciliação multicanal (Pandas + SQLite)
+* **Modelo financeiro** em Excel com 15 abas (DRE, fluxo de caixa, capital de giro, KPIs, forecast e ROI)
+* **Dashboard editorial** em React + Vite com filtros, drill-downs e painel de capital de giro
+* **5 artifacts de IA aplicada** com a API Anthropic — classificação, comentários executivos, alertas, reconciliação e análise de variações
+* **Benchmark Natura** com dados públicos para validação de margens, capital de giro e dinâmica omnichannel
+
+Stack: Python · SQLite · Excel · React · Anthropic API (Claude Sonnet 4)
+
+### Outros projetos
+
 🔹 **[Análise Financeira do Vasco SAF (2023–2027)](https://github.com/Vborges95/Analise_Vasco)**
 Análise independente dos balanços auditados do Vasco SAF com reconstrução de EBITDA recorrente, modelagem de runway e cenários de sustentabilidade financeira. O projeto aplica técnicas de FP&A, análise de caixa e modelagem operacional para avaliar viabilidade financeira, impacto regulatório (SSF/CBF) e caminhos de turnaround no contexto do futebol brasileiro.
 
@@ -66,7 +85,6 @@ Simulação de cenários de investimento com foco em alocação de capital, gera
 
 🔹 **[Modelagem de Banco de Dados – E-commerce](https://github.com/Vborges95/DIO_SQLtest3)**
 Estruturação de base relacional para garantir consistência dos dados e suportar análises, relatórios e construção de dashboards com maior confiabilidade.
-
 ---
 
 ## ⚙️ Ferramentas

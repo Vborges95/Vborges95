@@ -43,7 +43,7 @@ Estruturado em 6 camadas conectadas:
 ---
 
 ### 🎯 Série Rio — Análise Forense dos Balanços Auditados 2022–2025
-**[→ Ver repositório](https://github.com/Vborges95/serie-rio)**
+**[→ Ver repositório](https://github.com/Vborges95/serie_rio)**
 
 Quatro clubes. Mesmo Brasileirão. Mesma cidade. Quatro mundos diferentes.
 

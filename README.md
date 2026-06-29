@@ -62,6 +62,19 @@ Cada estudo inclui Executive Summary, análise completa em PDF, planilha editáv
 
 ---
 
+#### 🔁 Spin-off: Seis réguas, quatro clubes
+**[→ Ver repositório](https://github.com/Vborges95/serie-rio-fairplay)**
+
+Partindo da afirmação da CBF de que o fair play financeiro brasileiro (SSF) se inspirou em cinco ligas europeias, apliquei as seis réguas — a brasileira e as cinco citadas — aos balanços dos quatro clubes, testando se os vereditos coincidem.
+
+- Seis réguas aplicadas com a fórmula nativa de cada liga (Inglaterra, Espanha, Itália, Alemanha, França + Brasil), a partir do texto oficial de cada regulamento
+- **Dashboard interativo** em Streamlit — consulta a situação de cada clube e simula projeções ao longo do *glide path* até 2029
+- Planilha auditável dirigida por fórmulas e documento comparativo com a citação oficial de cada regra
+
+`Python` `Streamlit` `Financial Modeling` `Regulatory Analysis`
+
+---
+
 ### Outros projetos
 
 🔹 **[Financial Performance Analysis — E-commerce](https://github.com/Vborges95/financial-performance-analysis-ecommerce)**
